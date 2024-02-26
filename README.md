@@ -9,6 +9,7 @@
 #MY PHOTO:
   
 ![Без названия](https://github.com/Sanchous2363/Sanchous2363/assets/151240556/62f449f3-f1ec-49a3-8109-075cf4587e63)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sanchous2363&theme=darcula&utcOffset=8) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanchous2363&theme=darcula)
 
 <!---
 Sanchous2363/Sanchous2363 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
