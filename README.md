@@ -17,3 +17,7 @@ You can click the Preview link to take a look at your changes.
 #MY TROPHY:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sanchous2363)](https://github-profile-trophy.vercel.app/?username=Sanchous2363=matrix)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchous2363)](https://github.com/Sanchous2363/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchous2363&layout=pie)](https://github.com/Sanchous2363/github-readme-stats)
+
