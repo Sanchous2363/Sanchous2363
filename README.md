@@ -13,4 +13,3 @@ You can click the Preview link to take a look at your changes.
 #MY TROPHY:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sanchous2363)](https://github-profile-trophy.vercel.app/?username=Sanchous2363=matrix)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sanchous2363)](https://github-profile-trophy.vercel.app/?username=Sanchous2363&rank=S)
